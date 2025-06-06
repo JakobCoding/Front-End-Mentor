@@ -1,6 +1,6 @@
-# QR Code Generator UI
+# [QR Code - UI](https://jakobcoding.github.io/Front-End-Mentor/)
 
-A sleek, responsive web interface with Working QR code for Front-end Mentor.io, with a link to my contact details.
+A sleek, responsive web interface with Working QR code. Scan the code to visit Front-end Mentor.io, or click the with a at the bottom of the page to connect with me via LinkedIn.
 
 ![QR Code Generator Demo](assets/Demo-Screenshot.png)
 
