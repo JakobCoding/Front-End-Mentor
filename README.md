@@ -1,6 +1,6 @@
 # [QR Code - UI](https://jakobcoding.github.io/Front-End-Mentor/)
 
-A sleek, responsive web interface with Working QR code. Scan the code to visit Front-end Mentor.io, or click the with a at the bottom of the page to connect with me via LinkedIn.
+A sleek, responsive web interface with Working QR code. Scan the code to visit Front-end Mentor. If you would like to connect with me I have provided a link to my linkedIn at the bottom of the page.
 
 ![QR Code Generator Demo](assets/Demo-Screenshot.png)
 
