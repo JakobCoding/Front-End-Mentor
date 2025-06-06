@@ -2,7 +2,7 @@
 
 A sleek, responsive web interface to generate and download QR codes for URLs, text, or contact info.
 
-![QR Code Generator Demo](/Assets/Demo-Screenshot.png) _← Replace with your screenshot_
+![QR Code Generator Demo](/Project/assets/Demo-Screenshot.png)
 
 ## 🚀 Features
 
