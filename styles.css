@@ -16,7 +16,7 @@ img {
     display: flex;
     align-items: center;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
 }
 .container {
@@ -26,17 +26,20 @@ img {
     margin-bottom: 50px;
     padding: 12px 12px 20px 12px;
     text-align: center;
-    font-size: 16px;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
     border-radius: 15px;   
 }
 
-h3 {
+.heading {
     font-family: Outfit;
     color: hsl(218, 44%, 22%);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    
 }
 
 p {
@@ -44,4 +47,17 @@ p {
     text-align: center;
     color: hsl(216, 15%, 48%);
     margin-bottom: 20px;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+}
+
+a:hover {
+    color: red;
+}
+
+a:clicked {
+    color: blueviolet;
 }
